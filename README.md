@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DanielStroem
+- 👀 I’m interested in coding, anime, and gaming
+- 🌱 I’m currently learning C# (I am also an ICT student)
+- 💞️ I’m looking to collaborate on not really anything right now
+- 📫 How to reach me: https://rr.noordstar.me/26c605ec
